@@ -1,0 +1,2 @@
+print(input("what kind of tea is really hard to swallow?"))
+print("reality")
